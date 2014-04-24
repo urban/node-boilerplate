@@ -24,15 +24,6 @@ Create or start the VM:
 
     vagrant up
 
-Remote into VM:
+View project:
 
-    vagrant ssh
-
-start the server:
-
-    cd /vagrant
-    npm start
-
-    docker build -t node/app ./share
-    docker run -d -p 3000:3000 -v /vagrant/app:/opt/app node/app
-
+    open http://localhost:3000/
