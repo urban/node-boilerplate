@@ -1,0 +1,8 @@
+{
+  "name": "my-project",
+  "version": "0.0.1",
+  "dependencies": {
+    "normalize-css": "~3.0.0"
+  },
+  "devDependencies": {}
+}
